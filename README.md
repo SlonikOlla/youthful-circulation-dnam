@@ -32,4 +32,4 @@ A versioned Zenodo DOI will be added after the GitHub release is archived.
 
 ## Authors
 
-Igor Kovalchuk and coauthors. **Before the archival release, the complete manuscript author list should be added to the citation metadata.**
+Igor Kovalchuk and Olga Kovalchuk.
