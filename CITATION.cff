@@ -7,6 +7,8 @@ date-released: 2026-08-20
 authors:
   - family-names: Kovalchuk
     given-names: Igor
+  - family-names: Kovalchuk
+    given-names: Olga
 repository-code: "https://github.com/SlonikOlla/youthful-circulation-dnam"
 keywords:
   - DNA methylation
