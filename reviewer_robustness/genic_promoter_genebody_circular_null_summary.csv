@@ -1,0 +1,2 @@
+observed_common_genes,blood_genes,liver_genes,null_mean,null_sd,null_2.5,null_97.5,fold_vs_null,empirical_p,iterations,seed,null_definition
+2655,5160,5329,2939.252,25.954337239164957,2889.0,2990.0,0.903291041394205,1.0,5000,20260819,chromosome-wise circular shift of mutually exclusive blood-vs-liver tissue-specific reversal labels across union of tissue-specific reversal loci; canonical chromosomes; promoter+gene_body only
