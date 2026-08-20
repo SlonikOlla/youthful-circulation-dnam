@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite the associated manuscript and archived software release."
+title: "Analysis supporting Youthful circulation reshapes age-associated DNA methylation across blood and liver"
+type: software
+version: 1.0.0
+date-released: 2026-08-20
+authors:
+  - family-names: Kovalchuk
+    given-names: Igor
+repository-code: "https://github.com/SlonikOlla/youthful-circulation-dnam"
+keywords:
+  - DNA methylation
+  - heterochronic parabiosis
+  - aging
+  - RRBS
+  - epigenetics
