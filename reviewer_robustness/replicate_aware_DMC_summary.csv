@@ -1,0 +1,9 @@
+tissue,criterion,n,fraction_of_effect10
+blood,effect10,22424,1.0
+blood,both_p05,5269,0.23497145915090975
+blood,both_q10,0,0.0
+blood,both_q05,0,0.0
+liver,effect10,22286,1.0
+liver,both_p05,3645,0.16355559544108408
+liver,both_q10,0,0.0
+liver,both_q05,0,0.0
