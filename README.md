@@ -28,7 +28,9 @@ The derived tables in this repository correspond to the manuscript analyses. The
 
 ## Citation
 
-A versioned Zenodo DOI will be added after the GitHub release is archived.
+Archived on Zenodo: **DOI 10.5281/zenodo.22036635**
+
+https://doi.org/10.5281/zenodo.22036635
 
 ## Authors
 
