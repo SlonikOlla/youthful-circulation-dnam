@@ -2,8 +2,9 @@ cff-version: 1.2.0
 message: "If you use this analysis, please cite the associated manuscript and archived software release."
 title: "Analysis supporting Youthful circulation reshapes age-associated DNA methylation across blood and liver"
 type: software
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-08-20
+doi: "10.5281/zenodo.22036635"
 authors:
   - family-names: Kovalchuk
     given-names: Igor
